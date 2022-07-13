@@ -8,3 +8,6 @@ print(type(test)) #str
 
 test = {'Python', 'C', 'C++'}
 print(type(test)) # set
+
+
+
